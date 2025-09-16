@@ -23,7 +23,6 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   </a>
 </p>
 
-
 ---
 
 ### 💻 My Tech Stack
@@ -153,9 +152,6 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   </a>
   <a href="https://redis.io/docs/" target="_blank">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  </a>
-  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
-    <img src="https://img.shields.io/badge/MSSQL-gray?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
   </a>
   <br/><br/>
   <b>Unit & Integration Testing</b><br/>
