@@ -25,8 +25,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 
 ---
 
-### 💻 My Tech Stack
----
+### 💻 Tech Stack
 
 <p>
   <b>Code Architecture & Practices</b><br/>
@@ -183,6 +182,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   </a>
 </p>
 
+---
 
 ### 🔗 Connect With Me  
 <p>
