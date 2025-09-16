@@ -23,10 +23,13 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   </a>
 </p>
 
- <a href="https://github.com/hugoelitecoder/CodingChallenges" target="_blank">
-    <img src="https://img.shields.io/badge/SOLID-black?style=for-the-badge" alt="CODE CHALLENGE REPOSITORY" />
-</a>
-  
+<p>
+  <b>Repositories</b><br/>
+   <a href="https://github.com/hugoelitecoder/CodingChallenges" target="_blank">
+     <img src="https://img.shields.io/badge/CODING%20CHALLENGES-black?style=for-the-badge" alt="CODINGCHALLENGES REPOSITORY" />
+  </a>
+</p>
+
 
 ---
 
