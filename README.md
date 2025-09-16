@@ -14,14 +14,15 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 
 ### 🧩 Coding Achievements  
 
-<p align="center">
+<p>
   <a href="https://www.codingame.com/profile/7489c8e2d2f5c35b36cc1a4ef0fde6749950261">
-    <img src="https://img.shields.io/badge/CodinGame-Check%20Profile-yellow?style=for-the-badge&logo=codingame&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodinGame-Profile-yellow?style=for-the-badge&logo=codingame&logoColor=black" />
   </a>
   <a href="https://leetcode.com/u/hugoelitecoder/">
-    <img src="https://img.shields.io/badge/LeetCode-Check%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
@@ -30,22 +31,16 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 <p>
   <b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" /><br/><br/>
-
   <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,graphql" /><br/><br/>
-
   <b>Backend & Cloud</b><br/>
   <img src="https://skillicons.dev/icons?i=dotnet,azure,redis,rabbitmq" /><br/><br/>
-
   <b>DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,terraform,prometheus" /><br/><br/>
-
   <b>Databases</b><br/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/><br/>
-
   <b>Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=postman,vscode,powershell" /><br/><br/>
-
   <b>Testing</b><br/>
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
