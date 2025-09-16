@@ -12,6 +12,19 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 
 ---
 
+### 🧩 Coding Achievements  
+
+<p align="center">
+  <a href="https://www.codingame.com/profile/7489c8e2d2f5c35b36cc1a4ef0fde6749950261">
+    <img src="https://img.shields.io/badge/CodinGame-Check%20Profile-yellow?style=for-the-badge&logo=codingame&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/hugoelitecoder/">
+    <img src="https://img.shields.io/badge/LeetCode-Check%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack  
 
 <p>
