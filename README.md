@@ -26,27 +26,138 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 
 ---
 
-### 🛠️ Tech Stack  
+### 💻 My Tech Stack
+---
 
 <p>
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" /><br/><br/>
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,graphql" /><br/><br/>
-  <b>Backend & Cloud</b><br/>
-  <img src="https://skillicons.dev/icons?i=dotnet,azure,redis,rabbitmq" /><br/><br/>
-  <b>DevOps</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,terraform,prometheus" /><br/><br/>
-  <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/><br/>
-  <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=postman,vscode,powershell" /><br/><br/>
-  <b>Testing</b><br/>
-  <img src="https://skillicons.dev/icons?i=github" />
+  <b>Code Architecture & Practices</b><br/>
+  <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank">
+    <img src="https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge" alt="Clean Architecture" />
+  </a>
+  <a href="https://martinfowler.com/articles/screaming-architecture.html" target="_blank">
+    <img src="https://img.shields.io/badge/Screaming_Architecture-black?style=for-the-badge" alt="Screaming Architecture" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank">
+    <img src="https://img.shields.io/badge/SOLID-black?style=for-the-badge" alt="SOLID" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
+    <img src="https://img.shields.io/badge/OOP-black?style=for-the-badge" alt="OOP" />
+  </a>
+  <a href="https://www.dddcommunity.org/" target="_blank">
+    <img src="https://img.shields.io/badge/DDD-black?style=for-the-badge" alt="DDD" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Design_Patterns" target="_blank">
+    <img src="https://img.shields.io/badge/GoF-black?style=for-the-badge" alt="GoF" />
+  </a>
+  <a href="https://agilealliance.org/glossary/tdd/" target="_blank">
+    <img src="https://img.shields.io/badge/TDD-black?style=for-the-badge" alt="TDD" />
+  </a>
+  <a href="https://agilealliance.org/glossary/bdd/" target="_blank">
+    <img src="https://img.shields.io/badge/BDD-black?style=for-the-badge" alt="BDD" />
+  </a>
+  <br/><br/>
+  <b>Version Control & CI/CD</b><br/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/devops/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  </a>
+  <br/><br/>
+  <b>Cloud & Containers</b><br/>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Azure" />
+  </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/" target="_blank">
+    <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=bicep&logoColor=white" alt="Bicep" />
+  </a>
+  <br/><br/>
+  <b>Front-End</b><br/>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank">
+    <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <br/><br/>
+  <b>Back-End</b><br/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
+    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
+  </a>
+  <a href="https://grpc.io/" target="_blank">
+    <img src="https://img.shields.io/badge/gRPC-gray?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  </a>
+  <br/><br/>
+  <b>Real-Time & Messaging</b><br/>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/" target="_blank">
+    <img src="https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=signalr&logoColor=white" alt="SignalR" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  </a>
+  <br/><br/>
+  <b>Databases & Caching</b><br/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://redis.io/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+    <img src="https://img.shields.io/badge/MSSQL-gray?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  </a>
+  <br/><br/>
+  <b>Unit & Integration Testing</b><br/>
+  <a href="https://xunit.net/" target="_blank">
+    <img src="https://img.shields.io/badge/xUnit-gray?style=for-the-badge" alt="xUnit" />
+  </a>
+  <a href="https://testcontainers.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TestContainers-234259?style=for-the-badge&logo=docker&logoColor=white" alt="TestContainers" />
+  </a>
+  <br/><br/>
+  <b>E2E Testing</b><br/>
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Playwright-2196F3?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  </a>
+  <a href="https://specflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SpecFlow-00A98F?style=for-the-badge&logo=specflow&logoColor=white" alt="SpecFlow" />
+  </a>
 </p>
 
 ### 🔗 Connect With Me  
-
 <p>
   <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/hugo-steenhuis-1023118/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:hasteenhuis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
