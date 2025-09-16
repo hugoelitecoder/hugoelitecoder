@@ -165,7 +165,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://testcontainers.org/" target="_blank">
     <img src="https://img.shields.io/badge/TestContainers-234259?style=for-the-badge&logo=docker&logoColor=white" alt="TestContainers" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-9.0&pivots=xunit" target="_blank">
     <img src="https://img.shields.io/badge/Integration_Tests-6E42A6?style=for-the-badge" alt="Integration Tests" />
   </a>
   <a href="https://github.com/moq" target="_blank">
