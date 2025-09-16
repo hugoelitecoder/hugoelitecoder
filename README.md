@@ -63,13 +63,16 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/azure/devops/" target="_blank">
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  </a>
+  <a href="https://learn.microsoft.com/azure/devops/" target="_blank">
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   </a>
   <br/><br/>
   <b>Cloud & Containers</b><br/>
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   </a>
   <a href="https://docs.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -77,7 +80,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/" target="_blank">
+  <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/" target="_blank">
     <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=bicep&logoColor=white" alt="Bicep" />
   </a>
   <br/><br/>
@@ -88,10 +91,10 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank">
     <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
@@ -102,25 +105,37 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   </a>
   <br/><br/>
   <b>Back-End</b><br/>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
-    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
+  <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">
+    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  </a>
+  <a href="https://learn.microsoft.com/aspnet/core/web-api/" target="_blank">
+    <img src="https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Web API" />
+  </a>
+  <a href="https://learn.microsoft.com/ef/core/" target="_blank">
+    <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
   </a>
   <a href="https://grpc.io/" target="_blank">
     <img src="https://img.shields.io/badge/gRPC-gray?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
   </a>
   <br/><br/>
   <b>Real-Time & Messaging</b><br/>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/" target="_blank">
+  <a href="https://learn.microsoft.com/aspnet/core/signalr/" target="_blank">
     <img src="https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=signalr&logoColor=white" alt="SignalR" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
-    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
+  <a href="https://developer.mozilla.org/docs/Web/API/WebSockets_API" target="_blank">
+    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" alt="WebSockets" />
+  </a>
+  <a href="https://azure.microsoft.com/services/service-bus/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Service Bus" />
+  </a>
+  <a href="https://masstransit-project.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MassTransit-555555?style=for-the-badge" alt="MassTransit" />
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
@@ -133,10 +148,16 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
+  <a href="https://www.ravendb.net/" target="_blank">
+    <img src="https://img.shields.io/badge/RavenDB-7A001F?style=for-the-badge&logoColor=white" alt="RavenDB" />
+  </a>
+  <a href="https://learn.microsoft.com/azure/cosmos-db/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Azure Cosmos DB" />
+  </a>
   <a href="https://redis.io/docs/" target="_blank">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
     <img src="https://img.shields.io/badge/MSSQL-gray?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
   </a>
   <br/><br/>
@@ -147,6 +168,18 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://testcontainers.org/" target="_blank">
     <img src="https://img.shields.io/badge/TestContainers-234259?style=for-the-badge&logo=docker&logoColor=white" alt="TestContainers" />
   </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Integration_Tests-6E42A6?style=for-the-badge" alt="Integration Tests" />
+  </a>
+  <a href="https://github.com/moq" target="_blank">
+    <img src="https://img.shields.io/badge/Moq-555555?style=for-the-badge" alt="Moq" />
+  </a>
+  <a href="https://fluentassertions.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FluentAssertions-555555?style=for-the-badge" alt="FluentAssertions" />
+  </a>
+  <a href="https://github.com/AutoFixture/AutoFixture" target="_blank">
+    <img src="https://img.shields.io/badge/AutoFixture-555555?style=for-the-badge" alt="AutoFixture" />
+  </a>
   <br/><br/>
   <b>E2E Testing</b><br/>
   <a href="https://playwright.dev/" target="_blank">
@@ -156,6 +189,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
     <img src="https://img.shields.io/badge/SpecFlow-00A98F?style=for-the-badge&logo=specflow&logoColor=white" alt="SpecFlow" />
   </a>
 </p>
+
 
 ### 🔗 Connect With Me  
 <p>
