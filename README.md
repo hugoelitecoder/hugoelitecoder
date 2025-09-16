@@ -14,37 +14,32 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 
 ### 🛠️ Tech Stack  
 
-<p align="center">
+<p>
   <b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" /><br/><br/>
-  
+
   <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,graphql" /><br/><br/>
-  
+
   <b>Backend & Cloud</b><br/>
   <img src="https://skillicons.dev/icons?i=dotnet,azure,redis,rabbitmq" /><br/><br/>
-  
+
   <b>DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,terraform,prometheus" /><br/><br/>
-  
+
   <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/>
-  <!-- Custom icons could be added for MSSQL + RavenDB -->
-  <br/><br/>
-  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/><br/>
+
   <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=postman,vscode,powershell" /><br/>
-  <!-- Custom icons for Visual Studio -->
-  <br/><br/>
-  
+  <img src="https://skillicons.dev/icons?i=postman,vscode,powershell" /><br/><br/>
+
   <b>Testing</b><br/>
-  <!-- Custom icons for xUnit, AutoFixture, FluentAssertions, SpecFlow, Playwright -->
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ### 🔗 Connect With Me  
 
-<p align="center">
+<p>
   <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/hugo-steenhuis-1023118/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:hasteenhuis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.digivibetech.com"><img src="https://skillicons.dev/icons?i=devto" /></a>
