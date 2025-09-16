@@ -34,7 +34,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank">
     <img src="https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge" alt="Clean Architecture" />
   </a>
-  <a href="https://martinfowler.com/articles/screaming-architecture.html" target="_blank">
+  <a href="https://www.milanjovanovic.tech/blog/screaming-architecture" target="_blank">
     <img src="https://img.shields.io/badge/Screaming_Architecture-black?style=for-the-badge" alt="Screaming Architecture" />
   </a>
   <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank">
@@ -62,9 +62,6 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   </a>
   <a href="https://learn.microsoft.com/azure/devops/" target="_blank">
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
@@ -193,7 +190,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 
 ### 🔗 Connect With Me  
 <p>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/hugo-steenhuis-1023118/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/hugo-steenhuis-1023118"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:hasteenhuis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.digivibetech.com"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
