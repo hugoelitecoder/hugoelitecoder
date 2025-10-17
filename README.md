@@ -194,7 +194,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 
 ### 🔗 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/hugo-steenhuis-1023118"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/hugo-steenhuis"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:hasteenhuis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.digivibetech.com"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
