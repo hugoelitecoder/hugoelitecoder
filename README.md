@@ -185,8 +185,8 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
   <a href="https://playwright.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Playwright-2196F3?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   </a>
-  <a href="https://specflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SpecFlow-00A98F?style=for-the-badge&logo=specflow&logoColor=white" alt="SpecFlow" />
+  <a href="https://reqnroll.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Reqnroll-28A745?style=for-the-badge&logo=dotnet&logoColor=white" alt="Reqnroll" />
   </a>
 </p>
 
