@@ -6,7 +6,7 @@ Senior **.NET Developer** with 20+ years of experience designing and building **
 - 💡 Specialized in **Clean, Hexagonal, and Onion Architectures** with a strong focus on **scalability, maintainability, and performance**  
 - ☁️ Skilled in **Azure cloud-native development**, **CI/CD pipelines**, and **microservices modernization**  
 - ⚡ Proficient in **C#, .NET (Core/10+)**, **EF Core**, **SQL Server**, **RavenDB**, and modern frontend technologies (**Angular**)  
-- 📡 Experienced with **messaging systems (RabbitMQ, Redis)**, **distributed caching**, and **API-first development** using **REST** and **OpenAPI**  
+- 📡 Experienced with **messaging systems (RabbitMQ, Kafka)**, **distributed caching (Redis)**, and **API-first development** using **REST** and **OpenAPI**  
 - 🤝 Adept at **cross-functional collaboration**, introducing **reference architectures**, and applying **Agile & DevOps practices**  
 - 🎓 Certified: **AZ-900**, **AZ-204**, **AZ-305**, **AZ-400**, **Professional Scrum Master I**
 
